@@ -1,6 +1,6 @@
 # Chatkit Browser Notifications
 
-Send browser notifications for new messages with Chatkit. Tutorial:
+Send browser notifications for new messages with Chatkit. Tutorial: https://pusher.com/tutorials/browser-notifications-chatkit
 
 ## Getting Started
 
