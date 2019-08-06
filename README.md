@@ -6,8 +6,8 @@ Send browser notifications for new messages with Chatkit. Tutorial: https://push
 
 1. Clone this repository and `cd` into it.
 2. Execute `npm install` to download dependencies.
-3. See tutorial for notes on how to get the required credentials from Chatkit and newsapi.org
-4. Open `src/methods.js` and update it with your Chatkit instance locator, test token endpoint, room id, and news api key.
+3. See tutorial for notes on how to get the required credentials from Chatkit.
+4. Open `src/methods.js` and update it with your Chatkit instance locator and test token endpoint.
 5. Run `npm start` to start the development server. View http://localhost:3000 in your browser.
 
 ## Pre-requisites
